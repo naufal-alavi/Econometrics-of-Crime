@@ -20,52 +20,6 @@ These studies inform our choice of variables and model design, particularly focu
 ## 🧪 Methods
 We developed several regression models with the response variable:
 
-
-# 📊 Econometrics of Crime — Pantone 448C Final Project
-
-This project investigates potential biases in sentencing within the U.S. justice system using the `crime1` dataset from the Wooldridge collection. The analysis focuses on whether race, employment, and income correlate with average sentence length, using a series of linear regression models and robust statistical techniques.
-
-## 👥 Authors
-**Naufal Alavi**  
-**Luke Sunderman**
-
-## 🎯 Project Objective
-To explore whether socioeconomic and demographic factors like race, employment history, and income are statistically associated with longer prison sentences. The project does **not** attempt to establish causality, but rather identify possible correlations.
-
-## 📚 Theoretical Background
-Our work builds on foundational papers in the economics of crime:
-- **Becker (1968)** – Crime and Punishment: An Economic Approach  
-- **Friesen (2012)** – Certainty vs. Severity of Punishment  
-- **Tahani et al. (2015)** – Crime Prediction Using Spatial and Temporal Data  
-
-These studies inform our choice of variables and model design, particularly focusing on punishment severity (sentence length) and demographic context.
-
-## 🧪 Methods
-We developed several regression models with the response variable:
-
-# 📊 Econometrics of Crime — Pantone 448C Final Project
-
-This project investigates potential biases in sentencing within the U.S. justice system using the `crime1` dataset from the Wooldridge collection. The analysis focuses on whether race, employment, and income correlate with average sentence length, using a series of linear regression models and robust statistical techniques.
-
-## 👥 Authors
-**Naufal Alavi**  
-**Luke Sunderman**
-
-## 🎯 Project Objective
-To explore whether socioeconomic and demographic factors like race, employment history, and income are statistically associated with longer prison sentences. The project does **not** attempt to establish causality, but rather identify possible correlations.
-
-## 📚 Theoretical Background
-Our work builds on foundational papers in the economics of crime:
-- **Becker (1968)** – Crime and Punishment: An Economic Approach  
-- **Friesen (2012)** – Certainty vs. Severity of Punishment  
-- **Tahani et al. (2015)** – Crime Prediction Using Spatial and Temporal Data  
-
-These studies inform our choice of variables and model design, particularly focusing on punishment severity (sentence length) and demographic context.
-
-## 🧪 Methods
-We developed several regression models with the response variable:
-
-
 - **avgsen**: average sentence length (months)  
 - **qemp86**: quarters employed in 1986  
 - **inc86**: legal income in 1986 (hundreds of dollars)  
@@ -96,4 +50,4 @@ This analysis suggests that race and employment history are statistically signif
 ## 📁 Files
 - `Descriptive_Statistics.R` – Contains data loading, variable summaries, and initial exploration of the dataset.
 - `Model_Selection.R` – Contains all regression models, hypothesis testing, and robust standard error adjustments.
-- `crime1.xls` – Cleaned dataset used in the analysis (derived from Wooldridge's `crime1`).
+- `crime1_wooldridge.xls` – Cleaned dataset used in the analysis (derived from Wooldridge's `crime1`).
