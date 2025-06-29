@@ -51,3 +51,4 @@ This analysis suggests that race and employment history are statistically signif
 - `Descriptive_Statistics.R` – Contains data loading, variable summaries, and initial exploration of the dataset.
 - `Model_Selection.R` – Contains all regression models, hypothesis testing, and robust standard error adjustments.
 - `crime1_wooldridge.xls` – Cleaned dataset used in the analysis (derived from Wooldridge's `crime1`).
+- `Econometrics of Crime.pdf` – Full research paper detailing our econometric analysis, findings, and conclusions.
