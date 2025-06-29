@@ -1,4 +1,4 @@
-# 📊 Econometrics of Crime — Pantone 448C Final Project
+# 📊 Econometrics of Crime
 
 This project investigates potential biases in sentencing within the U.S. justice system using the `crime1` dataset from the Wooldridge collection. The analysis focuses on whether race, employment, and income correlate with average sentence length, using a series of linear regression models and robust statistical techniques.
 
